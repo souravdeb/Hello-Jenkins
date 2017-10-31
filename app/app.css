@@ -17,6 +17,7 @@
 
 .menu > li {
   display: inline;
+  padding: 2rem;
 }
 
 .menu > li + li:before {
